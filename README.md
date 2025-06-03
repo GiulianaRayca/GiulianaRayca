@@ -14,7 +14,7 @@
  
  
 <div> 
-  <a href="https://instagram.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-@rx.giu-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://discord.com/users/1168720588500639848" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
- <a href="mailto:gilly.rx03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-gilly.rx03-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:gilly.rx03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
